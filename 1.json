@@ -3,6 +3,6 @@
   "description": "The first estate",
   "image": "https://www.luxury-architecture.net/wp-content/uploads/2017/11/32313-Aerials_05.jpg",
   "external_link": "https://www.luxury-architecture.net/serenity-estate-gorgeous-vineyard-country-home-san-francisco-bay-area-california/",
-  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
-  "fee_recipient": "0xB2055dA80855C2a9887727F2C81Adf80e312845B" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 100, 
+  "fee_recipient": "0xB2055dA80855C2a9887727F2C81Adf80e312845B" 
 }
